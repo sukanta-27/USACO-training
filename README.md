@@ -12,4 +12,6 @@ USACO Training Gateway:
           3.Friday the Thirteenth(friday.java)
           4.Greedy gift givers (gift1.java)
           5.Broken Necklace (beads.java)
+    Section 1.2 - 
+          1.Milking Cows (milk2.java)      
           
